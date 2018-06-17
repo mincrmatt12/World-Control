@@ -25,7 +25,8 @@ hs_err_pid*
 /bin/
 wi
 # Gradle
-!gradle/wrapper/gradle-wrapper.jar
+/gradle
+gradlew*
 /.gradle/
 *.hprof
 
